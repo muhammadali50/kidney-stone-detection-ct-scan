@@ -4,3 +4,7 @@ Kidney stone detection from CT scan images – an AI-based prototype with scope 
 ## Dataset
 The dataset used in this project is available here:
 [Google Drive Link](https://drive.google.com/drive/folders/10CU8RsELTTv43VLj_ZUKBCdaRFj3lh-R?usp=drive_link)
+
+## Load Model
+The model file is here:
+https://drive.google.com/file/d/149soBYzkUQwDfTwjGgNSnIlb7IqrBXMz/view?usp=sharing
